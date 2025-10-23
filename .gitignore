@@ -373,6 +373,9 @@ cmake-build-*/
 # IntelliJ
 out/
 
+# Private build folders
+docs/
+
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
